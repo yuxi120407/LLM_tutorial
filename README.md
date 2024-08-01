@@ -4,7 +4,7 @@
 
 </div>
 <span id='all_content'/>
-# Content
+## Content
 
 
 * <a href='#environment'>1. Preparing</a>
@@ -23,11 +23,11 @@
 
 <span id='environment'/>
 
-### 1. Running Demo <a href='#all_catelogue'>[Back to Top]</a>
+### 1. Preparing <a href='#all_catelogue'>[Back to Top]</a>
 
 <span id='install_environment'/>
 
-#### 2.1 Environment Installation
+#### 1.1 Environment Installation
 
 Clone the repository locally:
 
