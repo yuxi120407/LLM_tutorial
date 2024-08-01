@@ -8,22 +8,42 @@
 
 
 * <a href='#environment'>1. Preparing</a>
-    * <a href='#install_environment'>2.1 Environment Installation</a>
-    * <a href='#download_imagebind_model'>2.2 Prepare ImageBind Checkpoint</a>
-    * <a href='#download_vicuna_model'>2.3 Prepare Vicuna Checkpoint</a>
-    * <a href='#download_anomalygpt'>2.4 Prepare Delta Weights of AnomalyGPT</a>
-    * <a href='#running_demo'>2.5 Deploying Demo</a>
+    * <a href='#install_environment'>1.1 Environment Installation</a>
+    * <a href='#download_LLaMA_model'>1.2 Prepare LLaMA2-7B Checkpoint</a>
+    * <a href='#running_demo'>1.3 Deploying Demo</a>
 * <a href='#train_LLM'>3. Train LLM</a>
-    * <a href='#data_preparation'>3.1 Data Preparation</a>
-    * <a href='#training_configurations'>3.2 Training Configurations</a>
-    * <a href='#model_training'>3.3 Training LLM</a>
+    * <a href='#data_preparation'>2.1 Data Preparation</a>
+    * <a href='#training_configurations'>2.2 Training Configurations</a>
+    * <a href='#model_training'>2.3 Training LLM</a>
 
-* <a href='#other_resources'>4. Other resources</a>
+* <a href='#other_resources'>3. Other resources</a>
 
 
 ****
 
-## 4 Other resources <a href='#all_content'>[Back to Top]</a>
+<span id='environment'/>
+
+### 1. Running Demo <a href='#all_catelogue'>[Back to Top]</a>
+
+<span id='install_environment'/>
+
+#### 2.1 Environment Installation
+
+Clone the repository locally:
+
+```
+git clone https://github.com/CASIA-IVA-Lab/AnomalyGPT.git
+```
+
+Install the required packages:
+
+```
+pip install -r requirements.txt
+```
+
+<span id='download_imagebind_model'/>
+
+## 3 Other resources <a href='#all_content'>[Back to Top]</a>
 It's hard to beat existing online resources in the field of large language models. Driven by incredible industry incentive, the tech sector (Google, OpenAI, Facebook/Meta, etc.) have made enormous strides in the fundamental technology of these models. Luckily, some of its core developers have created some of the best educational content available. We curate that for you here.
 
 ### Andrej Karpathy's YouTube videos on the Transformer and GPT-2
