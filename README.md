@@ -32,7 +32,7 @@
 Clone the repository locally:
 
 ```
-git clone https://github.com/CASIA-IVA-Lab/AnomalyGPT.git
+git clone https://github.com/CASIA-IVA-Lab/AnomalyGPT.git 
 ```
 
 Install the required packages:
@@ -41,7 +41,7 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-<span id='download_imagebind_model'/>
+<span id='download_LLaMA2 7B model'/>
 
 ## 3 Other resources <a href='#all_content'>[Back to Top]</a>
 It's hard to beat existing online resources in the field of large language models. Driven by incredible industry incentive, the tech sector (Google, OpenAI, Facebook/Meta, etc.) have made enormous strides in the fundamental technology of these models. Luckily, some of its core developers have created some of the best educational content available. We curate that for you here.
